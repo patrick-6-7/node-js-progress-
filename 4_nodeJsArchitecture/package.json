@@ -1,0 +1,12 @@
+{
+  "name": "4_nodejsarchitecture",
+  "version": "1.0.0",
+  "description": "client sends Request to server -> node server stores it in a event queue -> one by one those requests are sent to event loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
