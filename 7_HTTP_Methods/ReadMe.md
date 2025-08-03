@@ -112,8 +112,3 @@ switch(req.method) {
 - POST requests for form submissions
 - PUT/PATCH for data updates
 - DELETE for removing resources
-
-## Next Steps
-- Learn to handle POST data from request body
-- Implement method-specific routing
-- Practice with tools like Postman for testing different HTTP methods
